@@ -5,4 +5,7 @@
 ###### Mastering Github ######
 ##### Mastering Github #####
 Hey, I'm learning Github communicating with Markdown
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+<br>
+var myVar = "Hello, world!";
